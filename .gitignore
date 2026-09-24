@@ -1,5 +1,4 @@
 # SPICE large ephemeris kernels
-*.bsp
 
 # Python virtual environment & cache
 .venv/
