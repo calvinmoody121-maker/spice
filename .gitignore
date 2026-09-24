@@ -1,0 +1,7 @@
+# SPICE large ephemeris kernels
+*.bsp
+
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.py[cod]
